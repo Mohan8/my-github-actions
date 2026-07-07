@@ -2,6 +2,8 @@
 # Trigger: runs on push OR manually from the GitHub UI
 # Teaches: multiple jobs, job dependencies (needs), parallel vs sequential
 
+# Multiple jobs
+
 name: 02 - Multi Job Pipeline
 
 on:
